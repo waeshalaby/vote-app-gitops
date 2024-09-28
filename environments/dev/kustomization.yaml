@@ -6,6 +6,6 @@ images:
 - digest: sha256:b11196747ebcd71e8eae4ff556551f26af8938728c0909ec96791251487b27b4
   name: quay.io/waeshalaby/vote-api
   newName: quay.io/waeshalaby/vote-api
-- digest: sha256:38e7c94550dd800926ea227a1f70529edf567939c60c3b3762ef293e81003129
+- digest: sha256:317058417fe29c0d2a9aed380930cb08f0df4581111ae5d221e58e17f81cc929
   name: quay.io/waeshalaby/vote-ui
   newName: quay.io/waeshalaby/vote-ui
