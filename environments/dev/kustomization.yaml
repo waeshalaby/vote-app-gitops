@@ -3,7 +3,7 @@ kind: Kustomization
 resources:
 - ../../k8s/
 images:
-- digest: sha256:9b14ab2f40e78a3e46161ee338c26610a2915317c0d85fdc0198069dd27b559e
+- digest: sha256:a0cf0f16f55c58385c27878fcb36ff728d72800b0b61815ba5ccc2d6099ea921
   name: quay.io/waeshalaby/vote-api
   newName: quay.io/waeshalaby/vote-api
 - digest: sha256:b2b073a82ecc46d7dfeec61672d2a45e5b28e8cdfb1d77a666e3f90e77c2fe4f
