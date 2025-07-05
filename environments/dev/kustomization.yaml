@@ -3,7 +3,7 @@ kind: Kustomization
 resources:
 - ../../k8s/
 images:
-- digest: sha256:029ac24346d905e06cb3bb3f6296aa5b4849d69f5302a456c6ce1666f9734a2a
+- digest: sha256:9e0f48b6f6ac259a65be1767f09aa75232c497934999d77894ac297cb8f1f7b4
   name: image-registry.openshift-image-registry.svc:5000/default/app-git
   newName: image-registry.openshift-image-registry.svc:5000/default/app-git
 - digest: sha256:0175e4f6c62642caac62c2dbeb37182c2972c2003101dd8bcee5d2bef2f733b1
